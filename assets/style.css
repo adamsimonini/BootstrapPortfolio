@@ -1,16 +1,9 @@
-header{
-    background-color: cornflowerblue;
-    width: 100%;
-    height: 40px;
+body {
+    margin-top: 0;
+    background-image: url(/assets/bg-seamless.jpg);
+    font-family: 'Expletus Sans', cursive;
 }
 
-.navLink{
-    margin: 5px 10px 0 10px;
-    display: inline-block;
-    font-size: 20px;
-    color: white;
-}
-/* dont like this but it does what i want in one line so imma keep it for now */
-a{
-    color:white;
+.myName {
+    font-size: 25px;
 }
