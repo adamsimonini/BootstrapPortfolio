@@ -1,7 +1,10 @@
 body {
-    margin-top: 0;
     background-image: url(/assets/bg-seamless.jpg);
     font-family: 'Expletus Sans', cursive;
+}
+
+.header{
+    margin: 0;
 }
 
 .myName {
